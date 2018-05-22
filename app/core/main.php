@@ -40,6 +40,12 @@ class Main {
             ->to_array();
     }
 
+    public function findByPIN($pin){
+        $this->refresh_db();
+        return $this->connection_prop->get_user_info(['pin'=>$pin])
+            ->to_array();
+    }
+
     public function getUserPIN2($card_no){
         $this->refresh_db();
         return $this->users->filter_by_Card(['like'=>$card_no])
