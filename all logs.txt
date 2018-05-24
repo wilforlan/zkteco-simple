@@ -1,0 +1,359 @@
+<pre>Array
+(
+    [Row] => Array
+        (
+            [0] => Array
+                (
+                    [PIN] => 1
+                    [DateTime] => 2018-05-10 23:52:26
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [1] => Array
+                (
+                    [PIN] => 1
+                    [DateTime] => 2018-05-10 23:52:38
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [2] => Array
+                (
+                    [PIN] => 1
+                    [DateTime] => 2018-05-10 23:52:54
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [3] => Array
+                (
+                    [PIN] => 1
+                    [DateTime] => 2018-05-10 23:54:34
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [4] => Array
+                (
+                    [PIN] => 1
+                    [DateTime] => 2018-05-10 23:54:37
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [5] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:43:41
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [6] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:43:47
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [7] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:48:28
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [8] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:48:33
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [9] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:49:06
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [10] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 19:49:26
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [11] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:01:17
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [12] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:01:25
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [13] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:01:29
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [14] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:03:54
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [15] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:04:35
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [16] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:04:38
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [17] => Array
+                (
+                    [PIN] => 2
+                    [DateTime] => 2018-05-21 13:04:41
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [18] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 15:42:58
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [19] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 15:42:59
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [20] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 15:43:00
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [21] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 15:44:44
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [22] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 15:44:45
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [23] => Array
+                (
+                    [PIN] => 145
+                    [DateTime] => 2018-05-22 15:45:10
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [24] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-22 15:54:27
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [25] => Array
+                (
+                    [PIN] => 11
+                    [DateTime] => 2018-05-22 17:36:52
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [26] => Array
+                (
+                    [PIN] => 443
+                    [DateTime] => 2018-05-22 17:36:59
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [27] => Array
+                (
+                    [PIN] => 443
+                    [DateTime] => 2018-05-22 17:37:02
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [28] => Array
+                (
+                    [PIN] => 443
+                    [DateTime] => 2018-05-22 17:37:05
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [29] => Array
+                (
+                    [PIN] => 443
+                    [DateTime] => 2018-05-22 17:37:09
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [30] => Array
+                (
+                    [PIN] => 443
+                    [DateTime] => 2018-05-22 17:37:09
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [31] => Array
+                (
+                    [PIN] => 500
+                    [DateTime] => 2018-05-22 17:41:18
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [32] => Array
+                (
+                    [PIN] => 500
+                    [DateTime] => 2018-05-22 17:41:22
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [33] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-23 07:38:57
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [34] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-23 07:39:03
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [35] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-23 07:39:07
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [36] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-23 20:59:54
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+            [37] => Array
+                (
+                    [PIN] => 4
+                    [DateTime] => 2018-05-23 20:59:58
+                    [Verified] => 0
+                    [Status] => 0
+                    [WorkCode] => 0
+                )
+
+        )
+
+)
+</pre><br />
+<b>Notice</b>:  Undefined variable: app in <b>C:\xamppNEW\htdocs\Tollgate\test.php</b> on line <b>47</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function Users() on null in C:\xamppNEW\htdocs\Tollgate\test.php:47
+Stack trace:
+#0 C:\xamppNEW\htdocs\Tollgate\test.php(26): iterate_trucks(Array)
+#1 C:\xamppNEW\htdocs\Tollgate\test.php(26): iterate_trucks(Array)
+#2 C:\xamppNEW\htdocs\Tollgate\test.php(21): iterate_trucks(Array)
+#3 {main}
+  thrown in <b>C:\xamppNEW\htdocs\Tollgate\test.php</b> on line <b>47</b><br />

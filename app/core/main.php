@@ -18,12 +18,25 @@ class Main {
     }
 
     private function refresh_db(){
-        $this->connection_prop->refresh_db();;
+        $this->connection_prop->refresh_db();
     }
 
     public function allLogs(){
         $this->refresh_db();
         return $this->connection_prop->get_att_log()->to_array();
+    }
+
+    private function diluteLogFn($object){
+        $pin = $object['PIN'];
+        $user_info = $this->connection_prop->get_user_info(['pin'=>$pin])->to_array();
+        $object['UserInfo'] = $user_info;
+        return $object;
+    }
+    
+    public function allMappedLogs(){
+        
+        $log_array = $this->connection_prop->get_att_log()->to_array()['Row'];
+        return array_map("diluteLogFn", $log_array);
     }
 
     public function Users(){

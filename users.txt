@@ -1,0 +1,94 @@
+<pre>Array
+(
+    [Row] => Array
+        (
+            [0] => Array
+                (
+                    [PIN] => 1
+                    [Name] => CAR 23
+                    [Password] => Array
+                        (
+                        )
+
+                    [Group] => 1
+                    [Privilege] => 0
+                    [Card] => 13452272
+                    [PIN2] => 443
+                    [TZ1] => 0
+                    [TZ2] => 0
+                    [TZ3] => 0
+                )
+
+            [1] => Array
+                (
+                    [PIN] => 2
+                    [Name] => Array
+                        (
+                        )
+
+                    [Password] => Array
+                        (
+                        )
+
+                    [Group] => 1
+                    [Privilege] => 0
+                    [Card] => 0
+                    [PIN2] => 2
+                    [TZ1] => 0
+                    [TZ2] => 0
+                    [TZ3] => 0
+                )
+
+            [2] => Array
+                (
+                    [PIN] => 3
+                    [Name] => Array
+                        (
+                        )
+
+                    [Password] => Array
+                        (
+                        )
+
+                    [Group] => 1
+                    [Privilege] => 0
+                    [Card] => 11859692
+                    [PIN2] => 11
+                    [TZ1] => 0
+                    [TZ2] => 0
+                    [TZ3] => 0
+                )
+
+            [3] => Array
+                (
+                    [PIN] => 5
+                    [Name] => Array
+                        (
+                        )
+
+                    [Password] => Array
+                        (
+                        )
+
+                    [Group] => 1
+                    [Privilege] => 0
+                    [Card] => 0
+                    [PIN2] => 4
+                    [TZ1] => 0
+                    [TZ2] => 0
+                    [TZ3] => 0
+                )
+
+        )
+
+)
+</pre><br />
+<b>Notice</b>:  Undefined variable: app in <b>C:\xamppNEW\htdocs\Tollgate\test.php</b> on line <b>47</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function Users() on null in C:\xamppNEW\htdocs\Tollgate\test.php:47
+Stack trace:
+#0 C:\xamppNEW\htdocs\Tollgate\test.php(26): iterate_trucks(Array)
+#1 C:\xamppNEW\htdocs\Tollgate\test.php(26): iterate_trucks(Array)
+#2 C:\xamppNEW\htdocs\Tollgate\test.php(21): iterate_trucks(Array)
+#3 {main}
+  thrown in <b>C:\xamppNEW\htdocs\Tollgate\test.php</b> on line <b>47</b><br />
